@@ -9,17 +9,17 @@
 [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://stablepay.io/)](https://stablepay.io/)
 
 - 🤓 I'm a Senior Software Engineer / Blockchain Engineer
-- 🔭 I’m currently working on @StablePay 
-- 🌱 I’m currently learning new DeFi protocols. 
+- 🔭 I’m currently working on the Ethereum Blockchain as Senior Smart Contract/Solidity Developer.
+- 🌱 I'm learning new DeFi protocols constantly. 
 - 💬 Ask me about Blockchain, Ethereum, DeFi (Decentralized Finance), DeFi Protocols, Cryptocurrencies, Software Architecture, Design Patterns. 
-- Originally from **Buenos Aires**, now based in **Costa Rica**.
+- Originally from **Buenos Aires, Argentina**, now based in **World Wide Web**.
 - 📫 How to reach me: LinkedIn or email 
 - 😄 Pronouns: Guille 
 
 ### Some of my Skills
 
-- Solidity / NodeJS / Typescript / React / DeFi Protocols / Ethereum Oracles
-- Design Patterns / Software Architecture
+- Solidity / NodeJS / Typescript / React / DeFi Protocols / Ethereum Oracles / Truffle / Hardhat / Web3js / EthersJS / Chainlink / More
+- Design Patterns / Software Architecture / Unit Tests / TDD Culture
 
 ### Some of my Github Stats
 [![Guillermo Salazar's github stats](https://github-readme-stats.vercel.app/api?username=salazarguille&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/salazarguille/github-readme-stats)
