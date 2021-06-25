@@ -13,7 +13,7 @@
 - 🌱 I'm learning new DeFi protocols constantly. 
 - 💬 Ask me about Blockchain, Ethereum, DeFi (Decentralized Finance), DeFi Protocols, Cryptocurrencies, Software Architecture, Design Patterns. 
 - Originally from **Buenos Aires, Argentina**, now based in **World Wide Web**.
-- 📫 How to reach me: LinkedIn or email 
+- 📫 How to reach me: Twitter, LinkedIn or email 
 - 😄 Pronouns: Guille 
 
 ### Some of my Skills
